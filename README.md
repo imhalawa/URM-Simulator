@@ -1,3 +1,4 @@
+
 # Urm-Simulator
  is an easy program that simulate "Unlimited Registers Machine" commands.
 
@@ -7,7 +8,7 @@
 | Successor(Register number |  increase the value stored in Register n by 1 (RegN=RegN+1)  |  `s(1)` |
 | Zero(Register number) | Reset the value stored in Register n to 0 (RegN=0) | `z(1)`|
 | Transfer(RegN1,RegN2) | Takes a Copy of value stored in RegN1 and paste it in RegN2.(Replace the value in Reg N1 with value   in RegN2).|`t(1,2)`|
-| Jumb(RegN1,RegN2,LineN) |checks if (value in RegisterN1 equal to value in RegisterN2)<br> **if true:** <br> it jumbs to the lineN and execute it and Continue in Sequence.<br>**if false:**<br>it ignores the current line of Jumb and Continue the current Sequence of executing .|  `j(1,2,3)` |
+| Jumb(RegN1,RegN2,LineN) |checks if (value in RegisterN1 equal to value in RegisterN2)<br> **IF True:** <br> it jumbs to the lineN and execute it and Continue in Sequence.<br>**IF False:**<br>it ignores the current line of Jumb and Continue the current Sequence of executing .|  `j(1,2,3)` |
 ---
 
 ## Note:
@@ -20,4 +21,8 @@ So
 
 **be careful !** not enough times of loops won't give you any output.
 
-**For more information RTM !**
+---
+[**Reference**](http://www.cs.cornell.edu/courses/cs6110/2015sp/docs/computability%20an%20intro%20to%20recursive%20function%20theory.pdf)
+
+---
+**For more information [RTM](https://github.com/mhalawa96/URM-Simulator/blob/master/User-Manual.pdf) !**
