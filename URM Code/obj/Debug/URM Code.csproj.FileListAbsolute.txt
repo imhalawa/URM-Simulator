@@ -1,0 +1,34 @@
+P:\Coders\URM Code\URM Code\bin\Debug\URM Code.exe.config
+P:\Coders\URM Code\URM Code\bin\Debug\URM Code.exe
+P:\Coders\URM Code\URM Code\bin\Debug\URM Code.pdb
+P:\Coders\URM Code\URM Code\obj\Debug\URM Code.csprojResolveAssemblyReference.cache
+P:\Coders\URM Code\URM Code\obj\Debug\URM_Code.Properties.Resources.resources
+P:\Coders\URM Code\URM Code\obj\Debug\URM Code.csproj.GenerateResource.Cache
+P:\Coders\URM Code\URM Code\obj\Debug\URM Code.exe
+P:\Coders\URM Code\URM Code\obj\Debug\URM Code.pdb
+P:\Coders\URM Code\URM Code\obj\Debug\URM_Code.frmMain.resources
+P:\Coders\URM\URM V1.001\URM Code\bin\Debug\URM Code.exe.config
+P:\Coders\URM\URM V1.001\URM Code\bin\Debug\URM Code.exe
+P:\Coders\URM\URM V1.001\URM Code\bin\Debug\URM Code.pdb
+P:\Coders\URM\URM V1.001\URM Code\obj\Debug\URM_Code.AboutBox.resources
+P:\Coders\URM\URM V1.001\URM Code\obj\Debug\URM_Code.frmMain.resources
+P:\Coders\URM\URM V1.001\URM Code\obj\Debug\URM_Code.Monitor_operations.resources
+P:\Coders\URM\URM V1.001\URM Code\obj\Debug\URM_Code.Properties.Resources.resources
+P:\Coders\URM\URM V1.001\URM Code\obj\Debug\URM Code.csproj.GenerateResource.Cache
+P:\Coders\URM\URM V1.001\URM Code\obj\Debug\URM Code.exe
+P:\Coders\URM\URM V1.001\URM Code\obj\Debug\URM Code.pdb
+P:\Coders\URM\URM V1.002\URM Code\bin\Debug\URM Code.exe.config
+P:\Coders\URM\URM V1.002\URM Code\bin\Debug\URM Code.exe.manifest
+P:\Coders\URM\URM V1.002\URM Code\bin\Debug\URM Code.application
+P:\Coders\URM\URM V1.002\URM Code\bin\Debug\URM Code.exe
+P:\Coders\URM\URM V1.002\URM Code\bin\Debug\URM Code.pdb
+P:\Coders\URM\URM V1.002\URM Code\obj\Debug\URM_Code.AboutBox.resources
+P:\Coders\URM\URM V1.002\URM Code\obj\Debug\URM_Code.frmMain.resources
+P:\Coders\URM\URM V1.002\URM Code\obj\Debug\URM_Code.Monitor_operations.resources
+P:\Coders\URM\URM V1.002\URM Code\obj\Debug\URM_Code.Properties.Resources.resources
+P:\Coders\URM\URM V1.002\URM Code\obj\Debug\URM Code.csproj.GenerateResource.Cache
+P:\Coders\URM\URM V1.002\URM Code\obj\Debug\URM Code.TrustInfo.xml
+P:\Coders\URM\URM V1.002\URM Code\obj\Debug\URM Code.exe.manifest
+P:\Coders\URM\URM V1.002\URM Code\obj\Debug\URM Code.application
+P:\Coders\URM\URM V1.002\URM Code\obj\Debug\URM Code.exe
+P:\Coders\URM\URM V1.002\URM Code\obj\Debug\URM Code.pdb

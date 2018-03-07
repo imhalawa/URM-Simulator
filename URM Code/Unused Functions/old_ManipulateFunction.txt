@@ -1,0 +1,30 @@
+﻿ /*********************** old_ManipulateFunction ***************************************
+              public char[] Manipulate_Code(string CodeLine)
+              {
+                  char[] arr;
+                  codeLine = CodeLine.ToCharArray();
+                  if (codeLine.Length > 3 && CodeLine.Length < 6) //Manipulate s(2) or Z(3)
+                  {
+                      arr = new char[2];
+                      arr[0] = codeLine[0]; arr[1] = codeLine[2];
+                      return arr;
+                  }
+                  else if (codeLine.Length > 3 && CodeLine.Length < 7) //Manipulate T( 2, 3)
+                  {
+                      arr = new char[3];
+                      arr[0] = codeLine[0]; arr[1] = codeLine[2]; arr[2] = codeLine[4];
+                      return arr;
+                  }
+                  else if (codeLine.Length > 3 && CodeLine.Length < 11) //Manipulate J(1,2,3)
+                  {
+                      arr = new char[4];
+                      arr[0] = codeLine[0]; arr[1] = codeLine[2]; arr[2] = codeLine[4]; arr[3] = codeLine[6];
+                      return arr;
+                  }
+                  else
+                  {
+                      System.Windows.Forms.MessageBox.Show("Some thing went wrong");
+                      return null;
+                  }
+              } 
+***********************************************************************************************************************/

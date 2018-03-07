@@ -1,0 +1,16 @@
+E:\Projects\Faculty projects\2nd year\term1\Arch\URM v1.3(Final Version)\URM v1.3(Final Version)\URM Code\bin\Release\URM Code.exe.config
+E:\Projects\Faculty projects\2nd year\term1\Arch\URM v1.3(Final Version)\URM v1.3(Final Version)\URM Code\bin\Release\URM Code.exe.manifest
+E:\Projects\Faculty projects\2nd year\term1\Arch\URM v1.3(Final Version)\URM v1.3(Final Version)\URM Code\bin\Release\URM Code.application
+E:\Projects\Faculty projects\2nd year\term1\Arch\URM v1.3(Final Version)\URM v1.3(Final Version)\URM Code\bin\Release\URM Code.exe
+E:\Projects\Faculty projects\2nd year\term1\Arch\URM v1.3(Final Version)\URM v1.3(Final Version)\URM Code\bin\Release\URM Code.pdb
+E:\Projects\Faculty projects\2nd year\term1\Arch\URM v1.3(Final Version)\URM v1.3(Final Version)\URM Code\obj\Release\URM-Emulator-Code.csprojResolveAssemblyReference.cache
+E:\Projects\Faculty projects\2nd year\term1\Arch\URM v1.3(Final Version)\URM v1.3(Final Version)\URM Code\obj\Release\URM_Code.about.resources
+E:\Projects\Faculty projects\2nd year\term1\Arch\URM v1.3(Final Version)\URM v1.3(Final Version)\URM Code\obj\Release\URM_Code.frmMain.resources
+E:\Projects\Faculty projects\2nd year\term1\Arch\URM v1.3(Final Version)\URM v1.3(Final Version)\URM Code\obj\Release\URM_Code.Monitor_operations.resources
+E:\Projects\Faculty projects\2nd year\term1\Arch\URM v1.3(Final Version)\URM v1.3(Final Version)\URM Code\obj\Release\URM_Code.Properties.Resources.resources
+E:\Projects\Faculty projects\2nd year\term1\Arch\URM v1.3(Final Version)\URM v1.3(Final Version)\URM Code\obj\Release\URM-Emulator-Code.csproj.GenerateResource.Cache
+E:\Projects\Faculty projects\2nd year\term1\Arch\URM v1.3(Final Version)\URM v1.3(Final Version)\URM Code\obj\Release\URM Code.TrustInfo.xml
+E:\Projects\Faculty projects\2nd year\term1\Arch\URM v1.3(Final Version)\URM v1.3(Final Version)\URM Code\obj\Release\URM Code.exe.manifest
+E:\Projects\Faculty projects\2nd year\term1\Arch\URM v1.3(Final Version)\URM v1.3(Final Version)\URM Code\obj\Release\URM Code.application
+E:\Projects\Faculty projects\2nd year\term1\Arch\URM v1.3(Final Version)\URM v1.3(Final Version)\URM Code\obj\Release\URM Code.exe
+E:\Projects\Faculty projects\2nd year\term1\Arch\URM v1.3(Final Version)\URM v1.3(Final Version)\URM Code\obj\Release\URM Code.pdb
